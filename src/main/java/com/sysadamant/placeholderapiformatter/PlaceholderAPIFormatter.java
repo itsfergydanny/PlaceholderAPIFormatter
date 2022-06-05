@@ -16,6 +16,7 @@ public final class PlaceholderAPIFormatter extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        saveDefaultConfig();
         int count = 0;
         for (String line : getConfig().getStringList("formats")) {
             String[] args = line.split(":");
