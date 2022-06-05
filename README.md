@@ -27,3 +27,7 @@ For example if I wanted to format the %vault_eco_balance% placeholder, I would u
 
 <br>
 Hopefully this is clear enough, this was made in like 20 minutes to solve an interesting problem a friend had!
+
+<br>
+
+Check out this article for more information on how to use DecimalFormat: https://jenkov.com/tutorials/java-internationalization/decimalformat.html
