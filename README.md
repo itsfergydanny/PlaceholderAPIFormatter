@@ -12,7 +12,7 @@ formats:
   - 'format3:#,###.##'
 ```
 
-The format is '(format name):(decimalformat)'
+The format is '(format_name):(DecimalFormat)'
 
 Which can then be used in a PlaceholderAPI placeholder as the following: 
 ```
