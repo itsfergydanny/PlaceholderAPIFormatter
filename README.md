@@ -1,6 +1,6 @@
 # PlaceholderAPIFormatter
 
-Ever use a placeholder provided from another PlaceholderAPI compatible plugin that doesn't quite have the number formatting you want? 
+Ever use a placeholder provided from another [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) compatible plugin that doesn't quite have the number formatting you want? 
 
 To my knowledge, no other solution lets you format another existing placeholder like this.
 
