@@ -1,5 +1,4 @@
 name: PlaceholderAPIFormatter
 version: '${project.version}'
 main: com.sysadamant.placeholderapiformatter.PlaceholderAPIFormatter
-api-version: 1.18
 depend: [ PlaceholderAPI ]
