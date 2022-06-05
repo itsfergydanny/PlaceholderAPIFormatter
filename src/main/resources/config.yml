@@ -1,0 +1,10 @@
+#
+# Define formats here, uses Java's DecimalFormat, see: https://jenkov.com/tutorials/java-internationalization/decimalformat.html
+#
+
+# Format: format name : decimal format code, for example 'format1:#.##' will register the placeholder
+# %papiformatter_format1_<placeholder>%
+formats:
+  - 'format1:#.##'
+  - 'format2:#,###'
+  - 'format3:#,###.##'
